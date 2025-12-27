@@ -1,6 +1,5 @@
-First Name: Shahid
-Last Name: khan
-Email ID: shahid.gce@gmail.com
-Github ID: 1GC24CS102
-Mobile Number: 7892550006
-
+First Name: Syeda
+Last Name: irfana
+Email ID: syedairfu.gce@gmail.com
+Github ID: 1GC24CS119
+Mobile Number: 8792803950
